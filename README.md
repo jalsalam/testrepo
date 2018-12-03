@@ -2,7 +2,7 @@
 
 In this repo I will make an amazing project that everyone will want to use. Now making a commit directly in RStudio.
 
-A few more changes to commit with Git-GUI.
+A few more changes to commit with Git-GUI. And a final round with GitKraken.
 
 # EPA Disclaimer
 
