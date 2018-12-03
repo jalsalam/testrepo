@@ -1,6 +1,6 @@
 # testrepo
 
-In this repo I will make an amazing project that everyone will want to use.
+In this repo I will make an amazing project that everyone will want to use. Now making a commit directly in RStudio.
 
 # EPA Disclaimer
 
